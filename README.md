@@ -3,7 +3,7 @@
 ## C++ Version of the Trivia Kata
 
 1. Select a branch, to start with.
-1. See issues for your task.
+2. See issues for your task.
 
 Learn a lot!
 
